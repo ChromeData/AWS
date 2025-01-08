@@ -63,13 +63,14 @@ With these improvements, the environment drastically reduces its attack surface,
 Below are some examples of suspicious activity captured before implementing controls:
 
 1. **VPC Flow Logs** – Allowed inbound traffic from malicious IP addresses.  
-   ![Allowed Malicious Flows](https://i.imgur.com/pcGApEe.png)
+   ![image](https://github.com/user-attachments/assets/827b40cb-08c3-4b60-a015-485baf64223e)
+   ![image](https://github.com/user-attachments/assets/b2257a93-e551-4956-9568-95d516d4d44f)
 
-2. **Linux Syslog Auth Failures** – Numerous SSH brute force attempts.  
-   ![Linux SSH Auth Failures](https://i.imgur.com/F5osLM2.png)
+3. **Linux Syslog Auth Failures** – Numerous SSH brute force attempts.  
+   ![image](https://github.com/user-attachments/assets/654d3cd5-7dd9-4cfe-afc1-95371e5e5719)
 
-3. **Windows RDP/SMB Auth Failures** – Repeated RDP and SMB login attempts.  
-   ![Windows Auth Failures](https://i.imgur.com/RaBGo5e.png)
+4. **Windows RDP/SMB Auth Failures** – Repeated RDP and SMB login attempts.  
+   ![image](https://github.com/user-attachments/assets/936b6d58-1fbb-43f5-9191-f0d6a2383c88)
 
 ---
 
