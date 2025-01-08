@@ -1,7 +1,9 @@
 # AWS
 # Building a Mini Security Environment in AWS (Live Traffic)
 
-![AWS Security Environment](https://i.imgur.com/Ri4Eizk.jpg)
+![AWS Security Environment]
+![image](https://github.com/user-attachments/assets/f0d430a2-41a1-4130-aa2a-b09abb3f4b5d)
+
 
 ## Introduction
 
