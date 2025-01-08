@@ -1,7 +1,6 @@
 # AWS
 # Building a Mini Security Environment in AWS (Live Traffic)
 
-AWS Security Environment
 ![image](https://github.com/user-attachments/assets/f0d430a2-41a1-4130-aa2a-b09abb3f4b5d)
 
 
@@ -40,7 +39,8 @@ In this **“BEFORE”** state, resources are intentionally exposed to the inter
 
 ## Architecture After Hardening / Security Controls
 
-![Architecture Diagram (After)](https://i.imgur.com/fiK12O4.jpg)
+![image](https://github.com/user-attachments/assets/684e4b99-a083-440a-bd86-fd617ae52528)
+
 
 ### Security Improvements
 
