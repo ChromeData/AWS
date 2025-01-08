@@ -64,7 +64,7 @@ Below are some examples of suspicious activity captured before implementing cont
 
 1. **VPC Flow Logs** – Allowed inbound traffic from malicious IP addresses.  
    ![image](https://github.com/user-attachments/assets/827b40cb-08c3-4b60-a015-485baf64223e)
-   ![image](https://github.com/user-attachments/assets/b2257a93-e551-4956-9568-95d516d4d44f)
+   ![image](https://github.com/user-attachments/assets/a91251f8-85e7-414b-b17c-7d9340f885f6)
 
 3. **Linux Syslog Auth Failures** – Numerous SSH brute force attempts.  
    ![image](https://github.com/user-attachments/assets/654d3cd5-7dd9-4cfe-afc1-95371e5e5719)
