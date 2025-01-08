@@ -19,7 +19,7 @@ In this project, I build a mini security environment in AWS and ingest log sourc
 
 ## Architecture Before Hardening / Security Controls
 
-![Architecture Diagram (Before)] ![image](https://github.com/user-attachments/assets/226f3a08-a6de-4a0d-b0aa-4a4ed484f9a6)
+![image](https://github.com/user-attachments/assets/226f3a08-a6de-4a0d-b0aa-4a4ed484f9a6)
 
 
 ### Description of the Environment
